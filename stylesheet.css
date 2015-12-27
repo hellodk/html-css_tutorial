@@ -1,0 +1,39 @@
+p {
+	color: red;
+}
+
+span {
+	/*Write your CSS here!*/
+	color: green;
+}
+
+h1 {
+	color: #8B1C62;
+	font-family:serif, Times;
+}
+
+h2 {
+	color: #FF7256;
+	font-family:sans-serif;
+}
+
+h3 {
+	color: #FFC125;
+	font-family:cursive;
+}
+
+h4 {
+	color: #54FF9F;
+}
+
+h5 {
+	color: #530EE8;
+}
+
+h6 {
+	color: #8B668B;
+}
+
+div{background-color:#cc0000;height:100px;width:100px;}
+
+a{color:#cc0000;text-decoration:none;}
